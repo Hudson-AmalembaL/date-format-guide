@@ -1,4 +1,6 @@
 # date-format-guide
+Uses the  `moment` package.
+
 ## Dates Format
 
 1. 2001-07-04T12:08:54+03:00    `{moment("20010704T120854").format()}`
